@@ -10,18 +10,6 @@ public class Test {
 		System.out.println("Hello welcome");
 	}
 	
-	static {
-		
-		System.out.println("Sumit sawant");
-		
-	}
 	
-	public static void main(String[] args) {
-		
-		Test t=new Test();
-		t.m1();
-		
-		System.out.println(y);
-	}
 
 }
